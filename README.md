@@ -1,4 +1,4 @@
-# tcc_hugo
+# tcc
 
 Projeto desenvolvido para fins de trabalho de conclusão de curso
 
