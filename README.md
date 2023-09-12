@@ -1,6 +1,6 @@
 # tcc_hugo
 
-A new Flutter project.
+Projeto desenvolvido para fins de trabalho de conclusão de curso
 
 ## Getting Started
 
